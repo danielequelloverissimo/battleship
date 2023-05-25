@@ -2,9 +2,7 @@
 
 This is a simple single-player Battleship game implemented in C++. The objective of the game is to find and sink a hidden ship on a 9x9 grid.
 
-## How toP(lay
- [
-](https://www.codeblocks.org/downloads/)
+## How to Play
 1. The game starts by displaying an empty grid, representing the ocean.
 
 2. The ship's position is randomly determined and hidden on the grid.
